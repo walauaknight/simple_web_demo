@@ -1,0 +1,51 @@
+main>section{
+    display: none;
+}
+label {
+    display: inline-block;
+    margin-right: 10px;
+    width: 30%;
+    font-size: 0.8em;
+    text-align: right;
+}
+button {
+    margin-left: 40%;
+    margin-top: 10px;
+}
+#abc{
+    margin-left: 10%;
+}
+#def{
+    margin-left: 10%;
+}
+#after_login{
+    display:none;
+}
+#topupCredit{
+    display:none;
+}
+#selectCredit{
+    margin-left: 40%;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+#pay{
+    display:none;
+}
+#paymentOption{
+    display: none;
+}
+
+#clickedCheck{
+    display: none;
+}
+#clickedHistory{
+    display: none;
+}
+#clickedHistory{
+    display: none;
+}
+#clickedTopUpHistory{
+    display: none;
+}
+

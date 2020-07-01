@@ -1,0 +1,16 @@
+{
+  "name": "PPapp",
+  "short_name": "PPapp",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "palevioletred",
+  "theme_color": "red",
+  "description": "Pay your parking!",
+  "icons": [
+    {
+      "src": "images/9.jpg",
+      "sizes": "192x192",
+      "type": "image/png"
+    }
+  ]
+}
